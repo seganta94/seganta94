@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Eduardo+Segantine">「 Google Me 」</a>
     <br>
-    「 I am a Full Stack Developer from <b>Brazil</b> 」
+    「 I am a Full Stack Developer originally from <b>Brazil</b>, but currently residing in the <b>United States</b> 」
     <br>
     <br>
   </samp>
