@@ -42,7 +42,7 @@
  🎓 &emsp; Graduated from Le Wagon's Web Development Bootcamp <br/><br/>
  ❤️ &emsp; I'm enthusiastic about coding and constantly seeking to learn more <br/><br/>
  📧 &emsp; Reach me anytime: eduardo.segantine@gmail.com <br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/seganta94/seganta94/pulls)
+ 💬 &emsp; Ask me about anything [here](https://github.com/seganta94/seganta94/issues)
 
 </p>
 
