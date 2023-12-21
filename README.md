@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="" target="blank">
+ <a href="https://troopl.com/eduardosegantine" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="eduardosegantine" />
  </a>
  <a href="https://www.linkedin.com/in/eduardo-segantine/" target="_blank">
