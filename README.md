@@ -78,7 +78,7 @@
 ## Top Open Source -
 [![Friendzone](https://github-readme-stats.vercel.app/api/pin/?username=s-peta&repo=friendzone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/s-peta/friendzone)
 [![Dunker](https://github-readme-stats.vercel.app/api/pin/?username=seganta94&repo=dunker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seganta94/dunker)
-[![Rails Watch List](https://github-readme-stats.vercel.app/api/pin/?username=seganta94&repo=rails-watch-list&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seganta94/rails-watch-list)
+[![Travel Blog](https://github-readme-stats.vercel.app/api/pin/?username=seganta94&repo=travel-blog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seganta94/travel-blog)
 [![Dice Game](https://github-readme-stats.vercel.app/api/pin/?username=seganta94&repo=dice-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seganta94/dice-game)
 
 
