@@ -79,7 +79,9 @@
 [![Friendzone](https://github-readme-stats.vercel.app/api/pin/?username=s-peta&repo=friendzone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/s-peta/friendzone)
 [![Dunker](https://github-readme-stats.vercel.app/api/pin/?username=seganta94&repo=dunker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seganta94/dunker)
 [![Travel Blog](https://github-readme-stats.vercel.app/api/pin/?username=seganta94&repo=travel-blog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seganta94/travel-blog)
+[![Stock Information - Public API](https://github-readme-stats.vercel.app/api/pin/?username=seganta94&repo=Public-Api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seganta94/Public-Api)
 [![Dice Game](https://github-readme-stats.vercel.app/api/pin/?username=seganta94&repo=dice-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/seganta94/dice-game)
+
 
 
 <p align="left">
